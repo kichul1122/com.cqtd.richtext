@@ -22,4 +22,4 @@ public class Print {
 look com.cqtd.richtext/tests/Print.cs
 you can add your personal color.
 
-![screenshot](https://cqtd.github.io/com.cqtd.richtext/Documentation~/pic.png)
+![screenshot](https://github.com/cqtd/com.cqtd.richtext/blob/master/Documentation~/pic.png?raw=true)
